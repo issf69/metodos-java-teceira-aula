@@ -1,4 +1,4 @@
-# metodos-java-teceira-aula
+# metodos-java-terceira-aula
 Retornos
 return  lado1 * lado2;
 }
