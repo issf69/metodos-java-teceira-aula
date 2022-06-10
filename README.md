@@ -41,9 +41,9 @@ System.out.println("Area do trapezio:" + areaTrapezio);
 }
 
 # Resultado
-Exercicios retornos
-Area do quadrado:9.0
-Area do retangulo:25.0
-Area do trapezio:67.5
+      //Exercicios retornos
+        Area do quadrado:9.0
+        Area do retangulo:25.0
+        Area do trapezio:67.5
 
 Process finished with exit code 0
