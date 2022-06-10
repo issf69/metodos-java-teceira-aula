@@ -37,7 +37,7 @@ System.out.println("Area do retangulo:" + areaRetangulo);
 double areaTrapezio = Quadrilatero.area(7,8,9);
 System.out.println("Area do trapezio:" + areaTrapezio);
 
-}
+ }
 }
 
 # Resultado
